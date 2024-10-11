@@ -1,4 +1,5 @@
 # JavaScript-BellyButton-Challenge
+Still being worked due to errors
 Module 14 Challenge- Elizabeth Perez Silva
 
 Exploring the Belly Button Biodiversity dataset, creating charts, displaying metadata, and deploying app.
